@@ -1,0 +1,15 @@
+C:\ByteBank.Portal\ByteBank.Portal\bin\Debug\net6.0\ByteBank.Portal.exe
+C:\ByteBank.Portal\ByteBank.Portal\bin\Debug\net6.0\ByteBank.Portal.deps.json
+C:\ByteBank.Portal\ByteBank.Portal\bin\Debug\net6.0\ByteBank.Portal.runtimeconfig.json
+C:\ByteBank.Portal\ByteBank.Portal\bin\Debug\net6.0\ByteBank.Portal.dll
+C:\ByteBank.Portal\ByteBank.Portal\bin\Debug\net6.0\ByteBank.Portal.pdb
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.csproj.AssemblyReference.cache
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.GeneratedMSBuildEditorConfig.editorconfig
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.AssemblyInfoInputs.cache
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.AssemblyInfo.cs
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.csproj.CoreCompileInputs.cache
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.dll
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\refint\ByteBank.Portal.dll
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.pdb
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ByteBank.Portal.genruntimeconfig.cache
+C:\ByteBank.Portal\ByteBank.Portal\obj\Debug\net6.0\ref\ByteBank.Portal.dll
